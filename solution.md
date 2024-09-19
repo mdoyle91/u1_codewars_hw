@@ -39,6 +39,7 @@ function square(num){
 
 square(num)
 ```
+<!-- I wasn't able to get it to submit it on Codewars, but I code get it to work in in script.js in VS code. -->
 
 ## Sum Arrays
 
@@ -51,7 +52,7 @@ function sum(arr){
 
 sum(arr)
 ```
-
+<!-- I used the logic from the second problem and applied it this one. I wans't able to get it to submit on Codewars. -->
 ## Reversed Strings
 
 ```js
@@ -65,5 +66,7 @@ return joinArray
 
 reverseString(str)
 ```
-<!-- Utilized a site to figure out how to reverse arrays, but was still not able to get it to yield a correct result on Codewars.
+<!-- Utilized a site to figure out how to reverse arrays, but was still not able to get it to yield a correct result on Codewars, 
+and I got frustrated with trying to test it in VS Code a bit after 9pm, so decided to submit this as is to see if I could get any
+feedback on what i created that may help. 
 https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/ -->
